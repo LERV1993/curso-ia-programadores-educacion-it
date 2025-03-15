@@ -33,9 +33,9 @@ El apartado para procesar archivos no se encuentra disponible.
 
 
 
-## Environment Variables
+## Variables de entorno
 
-PAra correr el proyecto deberá agregar las siguientes variables de entorno a su archivo env ubicado en la raiz del proyecto.
+Para correr el proyecto deberá agregar las siguientes variables de entorno a su archivo env ubicado en la raiz del proyecto.
 
 `GOOGLE_API_KEY` | string : La clave de la API : [IA STUDIO GOOGLE](https://aistudio.google.com/apikey)
 
@@ -44,7 +44,9 @@ PAra correr el proyecto deberá agregar las siguientes variables de entorno a su
 `SYSTEM_INSTRUCTIONS` | string : Instrucciones de alto nivel para delimitar el formato de las respuestas (Ej.: "Responde como un veterinario")
 
 `PORT` | number - Opcional: Por defecto es el 4000, en caso de usar otro adaptar el archivo docker-compose.yml
-## Installation
+
+
+## Instalación
 
 ```bash
 git clone <URL_REPO>
@@ -62,7 +64,7 @@ Opcion 2) docker compose up --build
 
 
     
-## Authors
+## Autor
 
 - [@LERV1993](https://github.com/LERV1993)
 
