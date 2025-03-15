@@ -1,0 +1,17 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "conect to api chat google",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "lerv1993",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.22.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}

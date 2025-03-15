@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+
+# Variables de entorno
+.env
+
+# Ignorar logs
+*.log
+
+# Ignorar archivos de configuración local
+*.local
+
+# Ignorar archivos de IDE
+.idea/
+.vscode/
+*.swp
+*.swo
