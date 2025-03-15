@@ -3,7 +3,7 @@
 
 La aplicación es un backend en NodeJS conectada a la IA de Google "Gemini" para poder responder consultas.
 Se encuentra dockerizada para ser utilizada en cualquier sistema operativo.
-El apartado para procesar archivos no se encuentra disponible.
+El apartado para procesar archivos no se encuentra disponible al momento.
 
 
 
@@ -17,7 +17,7 @@ El apartado para procesar archivos no se encuentra disponible.
   POST /api/chat-response
 ```
 
-| PArametro | Tipo     | Descripción                |
+| Parámetro | Tipo     | Descripción                |
 | :-------- | :------- | :------------------------- |
 | `question` | `string` | Recibe una pregunta en texto que no puede estar vacío ni ser distinto de string  |
 
