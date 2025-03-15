@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 
-// ---- iddleware para parsear el cuerpo de las peticiones en formato JSON
+// ---- Middleware para parsear el cuerpo de las peticiones en formato JSON
 app.use(express.json());
 
 // ---- Endpoints
