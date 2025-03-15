@@ -55,7 +55,8 @@ npm i
 
 Completar archivo .env con los datos detallados anteriormente.
 ```bash
-docker compose up --build
+Opcion 1) npm start
+Opcion 2) docker compose up --build
 
 ```
 
