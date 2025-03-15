@@ -68,8 +68,5 @@ docker compose up --build
 
 ## Agradecimientos
 
-Muchas gracias a la gente que es parte del aprendizaje.
+Muchas gracias a la gente que es parte del aprendizaje como docentes y facilitadores del conocimiento.
 A educación IT por el [Curso de IA para programadores](https://www.educacionit.com/curso-de-ia-para-programadores) y al profesor [Martín Paladino](https://github.com/martin-paladino) por todo lo que aprendimos y su ayuda en cada paso de este curso.
-
-Muchas gracias !
-
